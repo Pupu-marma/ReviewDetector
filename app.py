@@ -43,7 +43,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).resolve().parent
 
-DATASET_PATH = BASE_DIR / "dataset" / "fake_review_dataset_5000.csv"
+DATASET_PATH = BASE_DIR / "fake_review_dataset_5000.csv"
 MODEL_PATH = BASE_DIR / "model_5000_reviews.pkl"
 
 
